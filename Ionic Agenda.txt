@@ -1,0 +1,21 @@
+Agenda :
+
+- Intro Ionic
+- Docs with Ionic Web
+- Apache Cordova with npm config 
+
+
+
+- https://www.npmjs.com/package/ionic
+(Ionic Getting started npm config)
+
+- http://docs.ionic.io/v1.0/docs/deploy-from-scratch
+(Ionic V2 beta Docs)
+
+Articles :
+
+http://developer.mobilecaddy.net/docs/developer-guide/setting-up-dev-env/ 
+
+(For Package manager)
+
+https://cordova.apache.org/
